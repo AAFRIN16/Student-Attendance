@@ -1,0 +1,11 @@
+{
+  "name": "student-attendance",
+  "version": "1.0.0",
+  "main": "attendance_backend.js",
+  "scripts": {
+    "start": "node attendance_backend.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
